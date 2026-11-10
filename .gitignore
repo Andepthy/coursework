@@ -1,0 +1,17 @@
+# MSVC binaries and intermediate files
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.pch
+
+# Visual Studio build directories
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio Code workspace files
+.vscode/
